@@ -1,6 +1,6 @@
-echo "Flask
+Flask
 Flask-MySQL
 Flask-SQLAlchemy
 pytest
 pytest-flask
-requests" > requirements.txt
+requests
